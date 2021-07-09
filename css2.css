@@ -71,3 +71,6 @@ a:link{
 a:hovor{
     text-decoration: none;
 }
+body{
+    font-family: 'cairo' , sans-serif;
+}
